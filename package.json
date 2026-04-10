@@ -1,7 +1,7 @@
 {
-  "name": "projeto-1-projeto-01",
+  "name": "api-instituicoes",
   "version": "1.0.0",
-  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jv3Ufld-)",
+  "description": "API para gerenciamento de instituições de ensino",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bancos-de-Dados-II/projeto-1-projeto-01.git"
+    "url": "git+https://github.com/Bancos-de-Dados-II/api-instituicoes.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Bancos-de-Dados-II/projeto-1-projeto-01/issues"
+    "url": "https://github.com/Bancos-de-Dados-II/api-instituicoes/issues"
   },
-  "homepage": "https://github.com/Bancos-de-Dados-II/projeto-1-projeto-01#readme",
+  "homepage": "https://github.com/Bancos-de-Dados-II/api-instituicoes#readme",
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.5",
